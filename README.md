@@ -22,4 +22,5 @@ https://dakotak92.github.io/Challenge-3/
 ![alert screenshot](https://github.com/DakotaK92/Challenge-3/assets/46942706/1f3205cd-f62a-451b-bd63-73763ec36db6)
 
 # Final code
-![website screenshot](https://github.com/DakotaK92/Challenge-3/assets/46942706/4d75b49a-1f18-4fc3-96e9-47c6e1726c77)
+![generated password](https://github.com/DakotaK92/Challenge-3/assets/46942706/df0ef536-4f35-488c-8591-227db0e66c90)
+
