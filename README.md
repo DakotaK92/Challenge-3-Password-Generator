@@ -11,3 +11,5 @@ The alert drop down will ask do you want any uppercase, lowercase, numbers or sp
 Click the commands you need and it will generate a password.
 
 If for some reason, the generator will not accept anything less that 8 characters and if you quit out of the generator it will stop.
+
+# Deployed at:
