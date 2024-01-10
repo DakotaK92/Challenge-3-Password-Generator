@@ -10,7 +10,7 @@ The alert drop down will ask do you want any uppercase, lowercase, numbers or sp
 
 Click the commands you need and it will generate a password.
 
-If for some reason, the generator will not accept anything less that 8 characters and if you quit out of the generator it will stop.
+The generator will not accept anything less than 8 characters and it make you quit out of the generator.
 
 # Deployed at:
 https://dakotak92.github.io/Challenge-3/
