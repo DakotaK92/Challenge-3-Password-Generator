@@ -13,7 +13,7 @@ Click the commands you need and it will generate a password.
 The generator will not accept anything less than 8 characters and it make you quit out of the generator.
 
 # Deployed at:
-https://dakotak92.github.io/Challenge-3/
+[https://dakotak92.github.io/Challenge-3/](https://dakotak92.github.io/Challenge-3-Password-Generator/)
 
 # Website:
 ![website screenshot](https://github.com/DakotaK92/Challenge-3/assets/46942706/37025e70-b5ad-4206-92fc-097b3b9cefb7)
